@@ -23,6 +23,6 @@ your shared library antlr build.
 
  
 
-![](file:////images/image.png "Running test on android")
+![](https://raw.githubusercontent.com/uvguy/antlrmathwidget1/master/images/image.png "Running test on android")
 
 MIT License.
